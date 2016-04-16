@@ -5,7 +5,6 @@
         1. http://semat.org/ 
         2. https://en.wikipedia.org/wiki/SEMAT
         3. https://www.ivarjacobson.com/alphastatecards
-
     * Archimate:
         1. [К.Гайдамака, А.Ефремов -- ArchiMate + Essence = ArchiEssence](http://www.docfoc.com/-archimate-essence-archiessence) 
         2. [Welcome to ArchiMate® 2.1, an Open Group Standard](http://pubs.opengroup.org/architecture/archimate2-doc/)
